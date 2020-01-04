@@ -3,7 +3,8 @@ title: Начало
 sections:
 - type: heroblock
   template: heroblock
-  title: Hi, I'm Stackbit Exto Portfolio Theme.
+  title: Привет, раб! Вступай в мою секту и найди спасение за $12.99 в месяц. Мы дадим
+    тебе еду и тепло.
   section_id: hero
   component: hero_block.html
   content: This section can contain a subtitle or tagline. The recommended length
