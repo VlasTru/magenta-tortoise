@@ -3,12 +3,11 @@ title: Начало
 sections:
 - type: heroblock
   template: heroblock
-  title: Привет, раб! Вступай в мою секту и найди спасение за $12.99 в месяц. Мы дадим
-    тебе еду и тепло.
+  title: 'Привет, раб! '
   section_id: hero
   component: hero_block.html
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
+  content: Вступай скорее в мою секту и найди спасение за $12.99 в месяц. Мы дадим
+    тебе еду и тепло.
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
