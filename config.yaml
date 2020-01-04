@@ -2,8 +2,8 @@
 title: Stackbit Exto Theme
 baseURL: "/"
 params:
-  color_scheme: dark
-  accent_color: pink
+  color_scheme: light
+  accent_color: blue
   header:
     title: Exto
     has_nav: true
